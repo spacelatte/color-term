@@ -11,13 +11,13 @@
 
  - Execute `make` in the directory, `make -j4` for 4 parallel downloads.
 
- - In the preferences of your Terminal.app, select **directory** as background.
+ - In the profile preferences of your Terminal.app, select **directory** as background.
 
-### add custom colors
+### add custom colors:
 
  either:
 
- - to `list.txt`, run `make` again.
+ - add 6 digit hex color code to `list.txt`, run `make` again.
 
- - or run `make {color}.jpg` eg: `make 223344.jpg`
+ - or run `make {color}.jpg` with your 6 digit hex color code, eg: `make 223344.jpg`
 
